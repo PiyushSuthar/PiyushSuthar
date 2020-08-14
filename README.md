@@ -5,6 +5,8 @@ A 16Y/O Web designer🌈 and developer🎯 from india.
 - 😄 Pronouns: he/him/his
 - 📮 Let's have some [chat](https://github.com/PiyushSuthar/PiyushSuthar/issues/new)
 
+[![HitCount](http://hits.dwyl.com/piyushsuthar/piyushsuthar.svg)](http://hits.dwyl.com/piyushsuthar/piyushsuthar)
+
 **Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -13,8 +15,7 @@ A 16Y/O Web designer🌈 and developer🎯 from india.
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=PiyushSuthar&show_icons=true&title_color=2e2e2e&hide=issues&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![HitCount](http://hits.dwyl.com/piyushsuthar/piyushsuthar.svg)](http://hits.dwyl.com/piyushsuthar/piyushsuthar)
+[![Programming Quote](https://quotes-github-readme.piyushsuthar.vercel.app/api?random)](https://github.com/piyushsuthar)
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

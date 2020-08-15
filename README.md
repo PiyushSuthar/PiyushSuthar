@@ -15,7 +15,7 @@ A 16Y/O Web designer🌈 and developer🎯 from india.
 
 ![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=PiyushSuthar&show_icons=true&title_color=2e2e2e&hide=issues&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Programming Quote](https://quotes-github-readme.vercel.app/api)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Programming Quote](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
 
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

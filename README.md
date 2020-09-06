@@ -46,6 +46,13 @@
   </a>
 </p>
 
+<h4 align="center">GitHub Trophies 🏆</h4>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=piyushsuthar&theme=gruvbox"/>
+  </a>
+</p>
+
 <h4 align="center">Latest Dev.to Article 📝:</h4>
 <p align="center">
   <a href="https://dev.to/piyush" target="_blank">

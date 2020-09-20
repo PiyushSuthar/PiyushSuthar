@@ -38,31 +38,38 @@
   <h4 align="center">📫 How to reach me?</h4>
   <p align="center">You may follow me on <a href="https://instagram.com/piyushsthr">Instagram</a> or <a href="https://twitter.com/piyushsthr">Twitter</a>. You can even create an issue <a href="https://github.com/PiyushSuthar/PiyushSuthar/issues/new">here</a>!</p>
 </p>
-<h4 align="center">Github Stats:</h4>
+<details align="center">
+  <summary>Github Stats 📈:</summary>
 <p align="center" justify="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" justify="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar&show_icons=true&title_color=2e2e2e&hide=issues&include_all_commits=true"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact" />
   </a>
 </p>
+</details>
 
-<h4 align="center">GitHub Trophies 🏆</h4>
+<details align="center">
+  <summary>GitHub Trophies 🏆</summary>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=piyushsuthar&theme=gruvbox"/>
   </a>
 </p>
-
-<h4 align="center">Latest Dev.to Article 📝:</h4>
+</details>
+<details align="center">
+  <summary>Latest Dev.to Article 📝:</summary>
 <p align="center">
   <a href="https://dev.to/piyush" target="_blank">
     <img src="https://latest-devto-post.vercel.app/api?username=piyush"/>
   </a>
 </p>
+</details>
 
-<h4 align="center">Motivate Yourself:</h4>
-<p align="center">
+<details align="center">
+  <summary>Motivate Yourself:</summary>
+  <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
   </a>
 </p>
+  </details>

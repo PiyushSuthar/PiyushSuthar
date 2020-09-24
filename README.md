@@ -42,7 +42,7 @@
   <summary>Github Stats 📈:</summary>
 <p align="center" justify="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" justify="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar&show_icons=true&title_color=2e2e2e&hide=issues&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar&show_icons=true&title_color=2e2e2e&include_all_commits=true"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact" />
   </a>
 </p>

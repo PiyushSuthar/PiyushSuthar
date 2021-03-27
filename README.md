@@ -42,7 +42,7 @@
 <details align="center" >
   <summary>Listening to 🎶</summary>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=default"/>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
   </a>
 </details>
 

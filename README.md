@@ -1,6 +1,6 @@
 <p align="center">
   <h1 align="center">Hi there, I'm Piyush👦,</h1>
-  <p align="center">I'm a 16 Y/O Web Developer 🇮🇳, Who codes in Javascript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>.</p>
+  <p align="center">I'm a 17 Y/O Web Developer 🇮🇳, Who codes in Javascript <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>.</p>
   <p align="center">
     <a href="https://twitter.com/piyushsthr" target="_blank">
       <img src="https://img.shields.io/twitter/follow/piyushsthr?color=%231DA1F2&label=Follow&logo=twitter&style=for-the-badge" />
@@ -38,6 +38,14 @@
   <h4 align="center">📫 How to reach me?</h4>
   <p align="center">You may follow me on <a href="https://instagram.com/piyushsthr">Instagram</a> or <a href="https://twitter.com/piyushsthr">Twitter</a>. You can even create an issue <a href="https://github.com/PiyushSuthar/PiyushSuthar/issues/new">here</a>!</p>
 </p>
+
+<details align="center" >
+  <summary>Listening to 🎶</summary>
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=default"/>
+  </a>
+</details>
+
 <details align="center">
   <summary>Github Stats 📈:</summary>
 <p align="center" justify="center">

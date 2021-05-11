@@ -50,12 +50,19 @@
   <summary>Github Stats 📈:</summary>
 <p align="center" justify="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank" justify="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar&show_icons=true&title_color=2e2e2e&include_all_commits=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=PiyushSuthar&show_icons=true&title_color=2e2e2e&include_all_commits=true&count_private=true"/>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact" />
   </a>
 </p>
 </details>
-
+<details align="center">
+  <summary>Github Streaks 📈:</summary>
+<p align="center" justify="center">
+  <a href="https://git.io/streak-stats" target="_blank" justify="center">
+        <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=piyushsuthar" />
+  </a>
+</p>
+</details>
 <details align="center">
   <summary>GitHub Trophies 🏆</summary>
 <p align="center">

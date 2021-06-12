@@ -99,9 +99,8 @@ I Love listening to music. I listen mostly on Youtube, so this one's probably no
 
 `Check the bars 👀`
 
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
-  </a>
+  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31yffca2qvi2ym6ezjn7ynlxnr6u)
+ 
 </details>
 
 ---

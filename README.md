@@ -11,7 +11,7 @@ till now i've tried - **javascript**, **rust**, **typescript**, **python** and *
   <summary>wanna talk?</summary>
 
   - **Twitter** = [@piyushsthr](https://twitter.com/piyushsthr)
-  - **Discord** = `Piyush Suthar#4113`
+  - **Discord** = [`Piyush Suthar#4113`](https://discord.com/users/441955841260912650)
 </details>
 
 <details>

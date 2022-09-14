@@ -51,7 +51,7 @@ Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/),
  <details>
   <summary>A Quote from a random Developer 🧬</summary>
   
-  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes) |
+  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) |
 |---|
   
   </details>

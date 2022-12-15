@@ -31,7 +31,7 @@ Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/),
 </details> -->
 
 
-<details>
+<details open>
 
   <summary>Currently listening 🎶</summary>
   

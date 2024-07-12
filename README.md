@@ -1,7 +1,7 @@
 ### Hello! I'm Piyush Suthar
 A self-taught developer from India who loves to work with Typescript, Rust and Golang.
 
-Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/), doing workout and playing flute.
+Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/) and playing flute.
 
 
 <details>
@@ -35,8 +35,8 @@ Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/),
 
   <summary>Currently listening 🎶</summary>
   
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&redirect=true" target="_blank">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yffca2qvi2ym6ezjn7ynlxnr6u&cover_image=true&theme=novatorem"/>
   </a>
 </details>
 

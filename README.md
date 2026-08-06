@@ -1,14 +1,15 @@
 ### Hello! I'm Piyush Suthar
-A self-taught developer from India who loves to work with Typescript, Rust and Golang.
+an engineer who's not bound to a single domain, someone who just loves to explore.
+currently tinkering hardware, building robots, designing llms, optimising inference and helping agents be smarter (put them in their guardrails).
 
-Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/) and playing flute.
+engineering for my heart and flute for the soul.
 
 
 <details>
 
   <summary>Github Stats 📊</summary>
   
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=piyushsuthar&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Piyush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact&theme=vue&hide_border=true" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api?username=piyushsuthar&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Piyush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=piyushsuthar&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- |
   
   
